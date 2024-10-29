@@ -2,7 +2,7 @@
 
 ## Genel Bakış
 
-Bu depo, **AutomationExercise.com** üzerindeki ürün gezintisini ve ürün detaylarını doğrulamak için Java, Selenium WebDriver ve JUnit kullanılarak yazılmış otomatik bir test senaryosu içermektedir. Bu test, kullanıcıların "Tüm Ürünler" sayfasına gidip ürün listesini görebildiğini ve ilk ürünün detaylarına başarılı bir şekilde erişebildiğini doğrulamayı amaçlar.
+Bu repo, **AutomationExercise.com** üzerindeki ürün gezintisini ve ürün detaylarını doğrulamak için Java, Selenium WebDriver ve JUnit kullanılarak yazılmış otomatik bir test senaryosu içermektedir. Bu test, kullanıcıların "Tüm Ürünler" sayfasına gidip ürün listesini görebildiğini ve ilk ürünün detaylarına başarılı bir şekilde erişebildiğini doğrulamayı amaçlar.
 
 ## Test Senaryosu
 
